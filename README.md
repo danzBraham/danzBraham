@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zidan Abraham</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
-<div style="width:100%;height:0;padding-bottom:63%;position:relative;"><iframe src="https://giphy.com/embed/xT77XZrTKOxycjaYvK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cheezburger-cats-glasses-nerds-xT77XZrTKOxycjaYvK">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:63%;position:relative;"><img src="https://giphy.com/embed/xT77XZrTKOxycjaYvK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p><a href="https://giphy.com/gifs/cheezburger-cats-glasses-nerds-xT77XZrTKOxycjaYvK">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danzbraham&label=Profile%20views&color=0e75b6&style=flat" alt="danzbraham" /> </p>
 
