@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NodeJS Framework**
 
-- 👯 I’m looking to collaborate on **Manchester United**
+- 👯 I’m looking to collaborate on **Web Hancok**
 
 - 🤝 I’m looking for help with **Google and Chat-GPT**
 
