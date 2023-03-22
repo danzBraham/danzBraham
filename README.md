@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/danzBraham](https://github.com/danzBraham)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Web Development Stuff**
 
 - 📫 How to reach me **zidanabraham07@gmail.com**
 
