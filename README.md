@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **CS50**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
