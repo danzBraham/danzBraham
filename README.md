@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danzbraham&label=Profile%20views&color=0e75b6&style=flat" alt="danzbraham" /> </p>
 
-- 🔭 I’m currently working on **CS50**
+- 🔭 I’m currently working on **Odin Project**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Frontend**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
