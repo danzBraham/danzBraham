@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Odin Project**
 
-- 🌱 I’m currently learning **Frontend**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
