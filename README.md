@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Web Crypto**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
