@@ -2,13 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danzbraham&label=Profile%20views&color=0e75b6&style=flat" alt="danzbraham" /> </p>
 
-- 🔭 I’m currently working on **Web Crypto**
+- 🔭 I’m currently working on **Skincare Web**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NextJS**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **Google and Chat-GPT**
+- 🤝 I’m looking for help with **Google and Bard**
 
 - 👨‍💻 All of my projects are available at [https://github.com/danzBraham](https://github.com/danzBraham)
 
