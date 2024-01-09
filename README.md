@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Skincare Web**
 
-- 🌱 I’m currently learning **Astro**
+- 🌱 I’m currently learning **DDD**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
