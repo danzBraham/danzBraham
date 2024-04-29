@@ -2,19 +2,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danzbraham&label=Profile%20views&color=0e75b6&style=flat" alt="danzbraham" /> </p>
 
-- 🔭 I’m currently working on **Forum API**
+- 🔭 I’m currently working on **Cats Social API**
 
-- 🌱 I’m currently learning **DDD**
+- 🌱 I’m currently learning **Golang**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **Google and Bard**
+- 🤝 I’m looking for help with **Google and claude.ai**
 
 - 👨‍💻 All of my projects are available at [https://github.com/danzBraham](https://github.com/danzBraham)
 
 - 💬 Ask me about **Web Development Stuff**
 
-- 📫 How to reach me **zidanabraham07@gmail.com**
+- 📫 How to reach me **zidangit07@gmail.com**
 
 - ⚡ Fun fact **I like sports stuff**
 
